@@ -10,7 +10,7 @@
 ###
 
 <div align="right">
-  <img align="right" height="150" src="[https://media.tenor.com/N0hybmzWMmcAAAAM/nagi-blue-lock.gif](https://pa1.aminoapps.com/6542/a740328723ec950945ccbefb9656a5198297b85d_hq.gif)" alt="Animated Image" />
+  <img align="right" height="150" src="https://media.tenor.com/N0hybmzWMmcAAAAM/nagi-blue-lock.gif](https://pa1.aminoapps.com/6542/a740328723ec950945ccbefb9656a5198297b85d_hq.gif" alt="Animated Image" />
 </div>
 
 ###
