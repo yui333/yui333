@@ -1,40 +1,33 @@
-<h5 align="center">✨ Kon'nichiwa! I'm João Lopes, an aspiring programmer from Portugal! ✨</h5>
+<h1 align="center" style="font-family: 'Comic Sans MS', cursive; color: #FF69B4;">🌟 Welcome to My Anime Realm! 🌟</h1>
 
-###
+<h3 align="center" style="font-family: 'Comic Sans MS', cursive;">👋 I'm João Lopes, a Code Ninja from Portugal!</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yui333&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yui333&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://media.tenor.com/N0hybmzWMmcAAAAM/nagi-blue-lock.gif" height="250" alt="Anime Character" />
 </div>
 
-###
+<hr style="border: 2px solid #FF69B4;"/>
 
-<div align="right">
-  <img align="right" height="150" src="https://media.tenor.com/N0hybmzWMmcAAAAM/nagi-blue-lock.gif" alt="Anime Animation" />
-</div>
-
-###
-
-<h4 align="center">🎌 My Tech Stack 🎌</h4>
+<h4 align="center" style="font-family: 'Comic Sans MS', cursive; color: #FF69B4;">🛠️ Tech Stack & Tools 🛠️</h4>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
 </div>
 
-###
+<hr style="border: 2px solid #FF69B4;"/>
 
-<h4 align="center">🌟 Let's Connect in the Anime World! 🌟</h4>
+<h4 align="center" style="font-family: 'Comic Sans MS', cursive; color: #FF69B4;">🌸 Let's Connect in the Anime Universe! 🌸</h4>
 <div align="center">
   <a href="https://instagram.com/lopesyui" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
@@ -53,14 +46,19 @@
   </a>
 </div>
 
-###
+<hr style="border: 2px solid #FF69B4;"/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tP1UeH24qOV3d3W/giphy.gif" height="150" alt="Anime GIF" />
+  <h4 style="font-family: 'Comic Sans MS', cursive; color: #FF69B4;">🌈 What I Love 🌈</h4>
+  <p style="font-family: 'Comic Sans MS', cursive; font-size: 16px; max-width: 600px; text-align: center;">
+    🎮 Gaming | 📚 Coding | 🍜 Ramen | 🎨 Anime | 🐾 Cats | ✈️ Travel
+  </p>
 </div>
 
-###
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btVg6B1c5JkhGJi/giphy.gif" height="200" alt="Anime Animation" />
+</div>
 
-<p align="center" style="font-size: 18px;">"Code like a hero, dream like an anime!" 🌸✨</p>
+<h4 align="center" style="font-family: 'Comic Sans MS', cursive; color: #FF69B4;">💬 "Code like a hero, dream like an anime!" 💖</h4>
 
-###
+<p align="center" style="font-size: 18px; color: #FF69B4;">🌟 Thank you for stopping by! 🌟</p>
