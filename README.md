@@ -1,14 +1,14 @@
-<h1 align="center" style="font-family: 'Comic Sans MS', cursive; color: #FF69B4;">🌟 Welcome to My Anime Realm! 🌟</h1>
+<h1 align="center" style="font-family: 'Courier New', monospace; color: #00FF00;">💻 Welcome to the Hacker's Den 💻</h1>
 
-<h3 align="center" style="font-family: 'Comic Sans MS', cursive;">👋 I'm João Lopes, a Code Ninja from Portugal!</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #00FF00;">👾 I am João Lopes, your friendly neighborhood coder from Portugal! 👾</h3>
 
 <div align="center">
-  <img src="https://media.tenor.com/N0hybmzWMmcAAAAM/nagi-blue-lock.gif" height="250" alt="Anime Character" />
+  <img src="https://media.tenor.com/CO4DddD5Z2UAAAAC/cyberpunk-anime.gif" height="300" alt="Hacking Anime" />
 </div>
 
-<hr style="border: 2px solid #FF69B4;"/>
+<hr style="border: 2px solid #00FF00;"/>
 
-<h4 align="center" style="font-family: 'Comic Sans MS', cursive; color: #FF69B4;">🛠️ Tech Stack & Tools 🛠️</h4>
+<h4 align="center" style="font-family: 'Courier New', monospace; color: #00FF00;">🔧 My Hacking Arsenal 🔧</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
   <img width="15" />
@@ -25,9 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
 </div>
 
-<hr style="border: 2px solid #FF69B4;"/>
+<hr style="border: 2px solid #00FF00;"/>
 
-<h4 align="center" style="font-family: 'Comic Sans MS', cursive; color: #FF69B4;">🌸 Let's Connect in the Anime Universe! 🌸</h4>
+<h4 align="center" style="font-family: 'Courier New', monospace; color: #00FF00;">🕶️ Let's Connect in the Cyber World 🕶️</h4>
 <div align="center">
   <a href="https://instagram.com/lopesyui" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
@@ -46,19 +46,19 @@
   </a>
 </div>
 
-<hr style="border: 2px solid #FF69B4;"/>
+<hr style="border: 2px solid #00FF00;"/>
 
 <div align="center">
-  <h4 style="font-family: 'Comic Sans MS', cursive; color: #FF69B4;">🌈 What I Love 🌈</h4>
-  <p style="font-family: 'Comic Sans MS', cursive; font-size: 16px; max-width: 600px; text-align: center;">
-    🎮 Gaming | 📚 Coding | 🍜 Ramen | 🎨 Anime | 🐾 Cats | ✈️ Travel
+  <h4 style="font-family: 'Courier New', monospace; color: #00FF00;">💡 Hacking is my Passion 💡</h4>
+  <p style="font-family: 'Courier New', monospace; font-size: 16px; max-width: 600px; text-align: center; color: #00FF00;">
+    🚀 Coding | 💾 Data Analysis | 🔍 Cybersecurity | 🎮 Gaming | 🌌 Exploring the digital universe
   </p>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btVg6B1c5JkhGJi/giphy.gif" height="200" alt="Anime Animation" />
+  <img src="https://media.giphy.com/media/3o6fJgGxH3l8vR0m7m/giphy.gif" height="200" alt="Hacker Animation" />
 </div>
 
-<h4 align="center" style="font-family: 'Comic Sans MS', cursive; color: #FF69B4;">💬 "Code like a hero, dream like an anime!" 💖</h4>
+<h4 align="center" style="font-family: 'Courier New', monospace; color: #00FF00;">🖥️ "Code, hack, and conquer the virtual world!" 🌐</h4>
 
-<p align="center" style="font-size: 18px; color: #FF69B4;">🌟 Thank you for stopping by! 🌟</p>
+<p align="center" style="font-size: 18px; color: #00FF00;">🔗 Thank you for visiting! Stay safe and code on! 🔗</p>
