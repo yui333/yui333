@@ -1,4 +1,4 @@
-<h5 align="center">👋 Hi! I'm João Lopes, a passionate programmer from Portugal.</h5>
+<h5 align="center">✨ Kon'nichiwa! I'm João Lopes, an aspiring programmer from Portugal! ✨</h5>
 
 ###
 
@@ -10,12 +10,12 @@
 ###
 
 <div align="right">
-  <img align="right" height="150" src="https://media.tenor.com/N0hybmzWMmcAAAAM/nagi-blue-lock.gif" alt="Animated Image" />
+  <img align="right" height="150" src="https://media.tenor.com/N0hybmzWMmcAAAAM/nagi-blue-lock.gif" alt="Anime Animation" />
 </div>
 
 ###
 
-<h4 align="center">💻 Technologies & Tools</h4>
+<h4 align="center">🎌 My Tech Stack 🎌</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="center">📫 Connect with Me</h4>
+<h4 align="center">🌟 Let's Connect in the Anime World! 🌟</h4>
 <div align="center">
   <a href="https://instagram.com/lopesyui" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
@@ -52,5 +52,15 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tP1UeH24qOV3d3W/giphy.gif" height="150" alt="Anime GIF" />
+</div>
+
+###
+
+<p align="center" style="font-size: 18px;">"Code like a hero, dream like an anime!" 🌸✨</p>
 
 ###
