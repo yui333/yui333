@@ -1,38 +1,29 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0d1117&text=%20yui333%20&fontColor=39ff14&fontSize=42&animation=blink&desc=%E2%96%B8%20ghost%20in%20the%20shell%20%7C%20code%20after%20midnight&descColor=6e7681&descSize=14" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=030303&text=yui%20wrld&fontColor=ffffff&fontSize=34&fontAlignY=52" />
 
 <br/>
 
-<pre>
-██╗   ██╗██╗   ██╗██╗██████╗ ██████╗ ██████╗ 
-╚██╗ ██╔╝██║   ██║██║╚════██╗╚════██╗╚════██╗
- ╚████╔╝ ██║   ██║██║ █████╔╝ █████╔╝ █████╔╝
-  ╚██╔╝  ██║   ██║██║ ╚═══██╗ ╚═══██╗ ╚═══██╗
-   ██║   ╚██████╔╝██║██████╔╝██████╔╝██████╔╝
-   ╚═╝    ╚═════╝ ╚═╝╚═════╝ ╚═════╝ ╚═════╝
-</pre>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=520&lines=root%40yui333%3A~%24+init;building+quietly...;breaking+things+to+learn;no+noise.+just+code." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2600&pause=1200&color=777777&center=true&vCenter=true&width=420&lines=yui333;portugal;code+%2F+design+%2F+night" />
 
 <br/>
 <br/>
 
 <p>
   <a href="https://www.linkedin.com/in/joao-lopes-programador/">
-    <img src="https://img.shields.io/badge/linkedin-050505?style=flat-square&logo=linkedin&logoColor=39ff14&labelColor=050505&color=050505" />
+    <img src="https://img.shields.io/badge/linkedin-080808?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=080808&color=080808" />
   </a>
   <a href="https://discordapp.com/users/yuivlr">
-    <img src="https://img.shields.io/badge/discord-050505?style=flat-square&logo=discord&logoColor=39ff14&labelColor=050505&color=050505" />
+    <img src="https://img.shields.io/badge/discord-080808?style=flat-square&logo=discord&logoColor=ffffff&labelColor=080808&color=080808" />
   </a>
   <a href="https://www.twitch.tv/yuivlr">
-    <img src="https://img.shields.io/badge/twitch-050505?style=flat-square&logo=twitch&logoColor=39ff14&labelColor=050505&color=050505" />
+    <img src="https://img.shields.io/badge/twitch-080808?style=flat-square&logo=twitch&logoColor=ffffff&labelColor=080808&color=080808" />
   </a>
   <a href="https://instagram.com/lopesyui">
-    <img src="https://img.shields.io/badge/instagram-050505?style=flat-square&logo=instagram&logoColor=39ff14&labelColor=050505&color=050505" />
+    <img src="https://img.shields.io/badge/instagram-080808?style=flat-square&logo=instagram&logoColor=ffffff&labelColor=080808&color=080808" />
   </a>
   <a href="mailto:jonhylopes2223@gmail.com">
-    <img src="https://img.shields.io/badge/mail-050505?style=flat-square&logo=gmail&logoColor=39ff14&labelColor=050505&color=050505" />
+    <img src="https://img.shields.io/badge/mail-080808?style=flat-square&logo=gmail&logoColor=ffffff&labelColor=080808&color=080808" />
   </a>
 </p>
 
@@ -46,32 +37,33 @@
 <table>
   <tr>
     <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=yui333&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=39ff14&icon_color=39ff14&text_color=9ca3af&border_color=39ff14" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=yui333&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=030303&title_color=ffffff&icon_color=777777&text_color=777777" />
     </td>
     <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=yui333&layout=compact&langs_count=6&hide_border=true&bg_color=050505&title_color=39ff14&text_color=9ca3af&border_color=39ff14" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=yui333&layout=compact&langs_count=6&hide_border=true&bg_color=030303&title_color=ffffff&text_color=777777" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=yui333&bg_color=050505&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true" />
+<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=yui333&bg_color=030303&color=777777&line=ffffff&point=777777&area=true&hide_border=true" />
 
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img height="150" src="https://pa1.aminoapps.com/6542/a740328723ec950945ccbefb9656a5198297b85d_hq.gif" />
 
 <br/>
 <br/>
 
-<pre>
-┌──[ yui333@github ]─[~/profile]
-└─$ sudo ./stay_lowkey.sh
-[ ok ] compiling silence
-[ ok ] injecting aura
-[ ok ] shipping shadows
-</pre>
+<sub>
+  yui wrld · building in silence
+</sub>
+
+<br/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=111111" />
 
 </div>
